@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
+    "name": "Web Panel",
     "url": "https://panel.bothimtv.com",
     "icon": "https://favicons.githubusercontent.com/panel.bothimtv.com",
-    "slug": "google",
+    "slug": "web-panel",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 822,
-    "timeDay": 822,
-    "timeWeek": 822,
-    "timeMonth": 822,
-    "timeYear": 822,
+    "time": 789,
+    "timeDay": 789,
+    "timeWeek": 789,
+    "timeMonth": 789,
+    "timeYear": 789,
     "dailyMinutesDown": {}
   }
 ]
